@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+Icon | Desription
+ :---: | -------------
+:warning:             | **Warning** If you misconfigure a step marked with this icon, later steps might not work properly. Check the step carefully before you move forward.
+:exclamation:         | **Attention** Review this step or comment carefully to save time, learn a best practice, or avoid errors. 
+:information_source:  | **Information** A comment labeled with this icon provides information about the topic or procedure.
+:book:                | **References** A comment labeled with this icon identifies reference material that provides additional information.
 
-You can use the [editor on GitHub](https://github.com/MariamaBeemer/deathofpdf/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Exercise 1: Preparing Azure Accounts for XYZ
 
-### Markdown
+#### Objectives
+This exercise focuses on enabling you to do the following:
+- Enable programatic deployment of XYZ.
+- Grant Azure permissions to XYZ.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Task 1: Enable programmatic deployment of ONTAP Cloud**
 
-```markdown
-Syntax highlighted code block
+Step | Action
+---- | -------------
+1-1  | Using an Azure account that has at least the Contributor role, enter the following URL:
+1-2  |:information_source: If you created a new account, your primary login is the Service Administrator of your subscription.  
+1-3  | :exclamation: The cost of performing the exercises in this class will be around $1000.
+1-4  | Open a web browser and enter the URL: 
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MariamaBeemer/deathofpdf/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
