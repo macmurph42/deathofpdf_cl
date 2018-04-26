@@ -1,3 +1,7 @@
+## Exercise Guide
+
+_Legend_
+
 Icon | Desription
  :---: | -------------
 :warning:             | **Warning** If you misconfigure a step marked with this icon, later steps might not work properly. Check the step carefully before you move forward.
@@ -13,7 +17,7 @@ This exercise focuses on enabling you to do the following:
 - Enable programatic deployment of XYZ.
 - Grant Azure permissions to XYZ.
 
-**Task 1: Enable programmatic deployment of ONTAP Cloud**
+**Task 1: Enable programmatic deployment of XYZ**
 
 Step | Action
 ---- | -------------
