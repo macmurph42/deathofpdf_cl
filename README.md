@@ -26,4 +26,4 @@ Step | Action
 1-3  | :exclamation: The cost of performing the exercises in this class will be around $1000.
 1-4  | Open a web browser and enter the URL: 
 
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
