@@ -22,7 +22,7 @@ This exercise focuses on enabling you to do the following:
 Step | Action
 ---- | -------------
 1-1  | Using an Azure account that has at least the Contributor role, enter the following URL:
-1-2  | ![Image Info Icon](deathofpdf/info-icon.png)  If you created a new account, your primary login is the Service Administrator of your subscription.  
+1-2  | ![Image Info Icon](https://raw.githubusercontent.com/nichollri/deathofpdf/master/info-icon.png)  If you created a new account, your primary login is the Service Administrator of your subscription.  
 1-3  | :exclamation: The cost of performing the exercises in this class will be around $1000.
 1-4  | Open a web browser and enter the URL: 
 
